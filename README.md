@@ -32,7 +32,7 @@ Python (Google Colaboratory Notebooks) was used to answer:
 
 I chose to summarize my anaylsis with a combination graph that displays the relationship between both metrics. I imported matplot and seaborn into my Python notebook in order to create these graphics. The code for these graphs can be found in my Google Colaboratory Notebook.
 
-#### Baltimore, MD Graph
+### Baltimore, MD Graph
 
 ![](.gitbook/assets/balti_graph.png)
 
@@ -42,7 +42,7 @@ Examples of the statistical relationship described above:
 * Greenmount West face incarceration rates as high as 25%, with household incomes barely reaching $15,000
 * Comparatively, Mount Washington experiences incarceration rates as low as 0.05%, while benefitting from household incomes in the range of $70,000 a year
 
-#### Washington, D.C. Graph
+### Washington, D.C. Graph
 
 ![](.gitbook/assets/dc_graph.png)
 
